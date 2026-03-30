@@ -1,5 +1,5 @@
 ------------------------------------------
-      Open Source Manifesto - 28 March 2026       
+      Open Source Manifesto - 30 March 2026       
 ------------------------------------------
 I, root, believe that VSCode is essential for progress.
 The freedom to Modify allows software to evolve beyond corporate limits.
